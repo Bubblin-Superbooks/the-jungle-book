@@ -8,12 +8,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
+    "tag": "h4",
     "innerHtml": "Mowgli’s Brothers"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Now Rann the Kite brings home the night\n      That Mang the Bat sets free—\n   The herds are shut in byre and hut\n      For loosed till dawn are we.\n   This is the hour of pride and power,\n      Talon and tush and claw.\n   Oh, hear the call!—Good hunting all\n      That keep the Jungle Law!\n   Night-Song in the Jungle</p>"
+    "tag": "pre",
+    "innerHtml": "<code>Now Rann the Kite brings home the night\n  That Mang the Bat sets free—\nThe herds are shut in byre and hut\n  For loosed till dawn are we.\nThis is the hour of pride and power,\n  Talon and tush and claw.\nOh, hear the call!—Good hunting all\n  That keep the Jungle Law!\nNight-Song in the Jungle</code>"
   },
   {
     "tag": "p",
@@ -428,6 +428,10 @@
     "innerHtml": "“What is the Law of the Jungle? Strike first and then give tongue. By thy very carelessness they know that thou art a man. But be wise. It is in my heart that when Akela misses his next kill—and at each hunt it costs him more to pin the buck—the Pack will turn against him and against thee. They will hold a jungle Council at the Rock, and then—and then—I have it!” said Bagheera, leaping up. “Go thou down quickly to the men’s huts in the valley, and take some of the Red Flower which they grow there, so that when the time comes thou mayest have even a stronger friend than I or Baloo or those of the Pack that love thee. Get the Red Flower.”"
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "p",
     "innerHtml": "Red Flower Bagheera meant fire, only no creature in the jungle will call fire by its proper name. Every beast lives in deadly fear of it, and invents a hundred ways of describing it."
   },
@@ -676,24 +680,12 @@
     "innerHtml": "The dawn was beginning to break when Mowgli went down the hillside alone, to meet those mysterious things that are called men."
   },
   {
-    "tag": "p",
-    "innerHtml": "Hunting-Song of the Seeonee Pack"
+    "tag": "h4",
+    "innerHtml": "Hunting-song Of The Seeonee Pack"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   As the dawn was breaking the Sambhur belled\n      Once, twice and again!\n   And a doe leaped up, and a doe leaped up\n   From the pond in the wood where the wild deer sup.\n   This I, scouting alone, beheld,\n      Once, twice and again!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   As the dawn was breaking the Sambhur belled\n      Once, twice and again!\n   And a wolf stole back, and a wolf stole back\n   To carry the word to the waiting pack,\n   And we sought and we found and we bayed on his track\n      Once, twice and again!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   As the dawn was breaking the Wolf Pack yelled\n      Once, twice and again!\n   Feet in the jungle that leave no mark!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Eyes that can see in the dark—the dark!\n   Tongue—give tongue to it!  Hark!  O hark!\n      Once, twice and again!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>As the dawn was breaking the Sambhur belled\n  Once, twice and again!\nAnd a doe leaped up, and a doe leaped up\n  From the pond in the wood where the wild deer sup.\nThis I, scouting alone, beheld,\n  Once, twice and again!\n\nAs the dawn was breaking the Sambhur belled\n  Once, twice and again!\nAnd a wolf stole back, and a wolf stole back\nTo carry the word to the waiting pack,\nAnd we sought and we found and we bayed on his track\n  Once, twice and again!\n\nAs the dawn was breaking the Wolf Pack yelled\n  Once, twice and again!\nFeet in the jungle that leave no mark!\n\nEyes that can see in the dark—the dark!\nTongue—give tongue to it!  Hark!  O hark!\n  Once, twice and again!</code>"
   },
   {
     "tag": "img",
@@ -704,12 +696,20 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
+    "tag": "h4",
     "innerHtml": "Kaa’s Hunting"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   His spots are the joy of the Leopard: his horns are the\n      Buffalo’s pride.\n   Be clean, for the strength of the hunter is known by the\n      gloss of his hide.\n   If ye find that the Bullock can toss you, or the heavy-browed\n      Sambhur can gore;\n   Ye need not stop work to inform us: we knew it ten seasons\n      before.\n   Oppress not the cubs of the stranger, but hail them as Sister\n      and Brother,\n   For though they are little and fubsy, it may be the Bear is\n      their mother.\n   “There is none like to me!” says the Cub in the pride of his\n      earliest kill;\n   But the jungle is large and the Cub he is small.  Let him\n      think and be still.\n                               Maxims of Baloo</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   His spots are the joy of the Leopard: his horns are the\n      Buffalo’s pride.\n   Be clean, for the strength of the hunter is known by the\n      gloss of his hide.\n   If ye find that the Bullock can toss you, or the heavy-browed\n      Sambhur can gore;\n   Ye need not stop work to inform us: we knew it ten seasons\n      before.\n   Oppress not the cubs of the stranger, but hail them as Sister\n      and Brother,\n   For though they are little and fubsy, it may be the Bear is\n      their mother.\n   “There is none like to me!” says the Cub in the pride of his\n      earliest kill;\n   But the jungle is large and the Cub he is small.  Let him\n      think and be still.</code>"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Maxims Of Baloo"
   },
   {
     "tag": "p",
@@ -1424,28 +1424,12 @@
     "innerHtml": "Mowgli laid his head down on Bagheera’s back and slept so deeply that he never waked when he was put down in the home-cave."
   },
   {
-    "tag": "p",
-    "innerHtml": "Road-Song of the Bandar-Log"
+    "tag": "h4",
+    "innerHtml": "Road-song Of The Bandar-log"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Here we go in a flung festoon,\n   Half-way up to the jealous moon!\n   Don’t you envy our pranceful bands?\n   Don’t you wish you had extra hands?\n   Wouldn’t you like if your tails were—so—\n   Curved in the shape of a Cupid’s bow?\n      Now you’re angry, but—never mind,\n      Brother, thy tail hangs down behind!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Here we sit in a branchy row,\n   Thinking of beautiful things we know;\n   Dreaming of deeds that we mean to do,\n   All complete, in a minute or two—\n   Something noble and wise and good,\n   Done by merely wishing we could.\n      We’ve forgotten, but—never mind,\n      Brother, thy tail hangs down behind!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   All the talk we ever have heard\n   Uttered by bat or beast or bird—\n   Hide or fin or scale or feather—\n   Jabber it quickly and all together!\n   Excellent!  Wonderful!  Once again!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Now we are talking just like men!\n      Let’s pretend we are ... never mind,\n      Brother, thy tail hangs down behind!\n      This is the way of the Monkey-kind.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Then join our leaping lines that scumfish through the pines,\n   That rocket by where, light and high, the wild grape swings.\n   By the rubbish in our wake, and the noble noise we make,\n   Be sure, be sure, we’re going to do some splendid things!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   Here we go in a flung festoon,\n   Half-way up to the jealous moon!\n   Don’t you envy our pranceful bands?\n   Don’t you wish you had extra hands?\n   Wouldn’t you like if your tails were—so—\n   Curved in the shape of a Cupid’s bow?\n      Now you’re angry, but—never mind,\n      Brother, thy tail hangs down behind!\n\n   Here we sit in a branchy row,\n   Thinking of beautiful things we know;\n   Dreaming of deeds that we mean to do,\n   All complete, in a minute or two—\n   Something noble and wise and good,\n   Done by merely wishing we could.\n      We’ve forgotten, but—never mind,\n      Brother, thy tail hangs down behind!\n\n   All the talk we ever have heard\n   Uttered by bat or beast or bird—\n   Hide or fin or scale or feather—\n   Jabber it quickly and all together!\n   Excellent!  Wonderful!  Once again!\n\n   Now we are talking just like men!\n      Let’s pretend we are ... never mind,\n      Brother, thy tail hangs down behind!\n      This is the way of the Monkey-kind.\n\n   Then join our leaping lines that scumfish through the pines,\n   That rocket by where, light and high, the wild grape swings.\n   By the rubbish in our wake, and the noble noise we make,\n   Be sure, be sure, we’re going to do some splendid things!</code>"
   },
   {
     "tag": "img",
@@ -1456,12 +1440,16 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
     "innerHtml": "“Tiger! Tiger!”"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   What of the hunting, hunter bold?\n      Brother, the watch was long and cold.\n   What of the quarry ye went to kill?\n      Brother, he crops in the jungle still.\n   Where is the power that made your pride?\n      Brother, it ebbs from my flank and side.\n   Where is the haste that ye hurry by?\n      Brother, I go to my lair—to die.</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   What of the hunting, hunter bold?\n      Brother, the watch was long and cold.\n   What of the quarry ye went to kill?\n      Brother, he crops in the jungle still.\n   Where is the power that made your pride?\n      Brother, it ebbs from my flank and side.\n   Where is the haste that ye hurry by?\n      Brother, I go to my lair—to die.</code>"
   },
   {
     "tag": "p",
@@ -1996,116 +1984,12 @@
     "innerHtml": "But that is a story for grown-ups."
   },
   {
-    "tag": "p",
+    "tag": "h4",
     "innerHtml": "Mowgli’s Song"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   THAT HE SANG AT THE COUNCIL ROCK WHEN HE\n   DANCED ON SHERE KHAN’S HIDE</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   The Song of Mowgli—I, Mowgli, am singing.  Let the jungle\n      listen to the things I have done.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Shere Khan said he would kill—would kill!  At the gates in the\n      twilight he would kill Mowgli, the Frog!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   He ate and he drank.  Drink deep, Shere Khan, for when wilt thou\n      drink again?  Sleep and dream of the kill.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I am alone on the grazing-grounds.  Gray Brother, come to me!\n      Come to me, Lone Wolf, for there is big game afoot!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Bring up the great bull buffaloes, the blue-skinned herd bulls\n      with the angry eyes.  Drive them to and fro as I order.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Sleepest thou still, Shere Khan?  Wake, oh, wake!  Here come I,\n      and the bulls are behind.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Rama, the King of the Buffaloes, stamped with his foot.  Waters of\n      the Waingunga, whither went Shere Khan?</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   He is not Ikki to dig holes, nor Mao, the Peacock, that he should\n      fly.  He is not Mang the Bat, to hang in the branches.  Little\n      bamboos that creak together, tell me where he ran?</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Ow!  He is there.  Ahoo!  He is there.  Under the feet of Rama\n      lies the Lame One!  Up, Shere Khan!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Up and kill!  Here is meat; break the necks of the bulls!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Hsh!  He is asleep.  We will not wake him, for his strength is\n      very great.  The kites have come down to see it.  The black\n      ants have come up to know it.  There is a great assembly in his\n      honor.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Alala!  I have no cloth to wrap me.  The kites will see that I am\n      naked.  I am ashamed to meet all these people.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Lend me thy coat, Shere Khan.  Lend me thy gay striped coat that I\n      may go to the Council Rock.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   By the Bull that bought me I made a promise—a little promise.\n      Only thy coat is lacking before I keep my word.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   With the knife, with the knife that men use, with the knife of the\n      hunter, I will stoop down for my gift.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Waters of the Waingunga, Shere Khan gives me his coat for the love\n      that he bears me.  Pull, Gray Brother!  Pull, Akela!  Heavy is\n      the hide of Shere Khan.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   The Man Pack are angry.  They throw stones and talk child’s talk.\n      My mouth is bleeding.  Let me run away.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Through the night, through the hot night, run swiftly with me, my\n      brothers.  We will leave the lights of the village and go to\n      the low moon.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Waters of the Waingunga, the Man-Pack have cast me out.  I did\n      them no harm, but they were afraid of me.  Why?</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Wolf Pack, ye have cast me out too.  The jungle is shut to me and\n      the village gates are shut.  Why?</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   As Mang flies between the beasts and birds, so fly I between the\n      village and the jungle.  Why?</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I dance on the hide of Shere Khan, but my heart is very heavy.  My\n      mouth is cut and wounded with the stones from the village, but\n      my heart is very light, because I have come back to the jungle.\n      Why?</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   These two things fight together in me as the snakes fight in the\n      spring.  The water comes out of my eyes; yet I laugh while it\n      falls.  Why?</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I am two Mowglis, but the hide of Shere Khan is under my feet.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   All the jungle knows that I have killed Shere Khan.  Look—look\n      well, O Wolves!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Ahae!  My heart is heavy with the things that I do not understand.</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   THAT HE SANG AT THE COUNCIL ROCK WHEN HE\n   DANCED ON SHERE KHAN’S HIDE\n\n   The Song of Mowgli—I, Mowgli, am singing.  Let the jungle\n      listen to the things I have done.\n\n   Shere Khan said he would kill—would kill!  At the gates in the\n      twilight he would kill Mowgli, the Frog!\n\n   He ate and he drank.  Drink deep, Shere Khan, for when wilt thou\n      drink again?  Sleep and dream of the kill.\n\n   I am alone on the grazing-grounds.  Gray Brother, come to me!\n      Come to me, Lone Wolf, for there is big game afoot!\n\n   Bring up the great bull buffaloes, the blue-skinned herd bulls\n      with the angry eyes.  Drive them to and fro as I order.\n\n   Sleepest thou still, Shere Khan?  Wake, oh, wake!  Here come I,\n      and the bulls are behind.\n\n   Rama, the King of the Buffaloes, stamped with his foot.  Waters of\n      the Waingunga, whither went Shere Khan?\n\n   He is not Ikki to dig holes, nor Mao, the Peacock, that he should\n      fly.  He is not Mang the Bat, to hang in the branches.  Little\n      bamboos that creak together, tell me where he ran?\n\n   Ow!  He is there.  Ahoo!  He is there.  Under the feet of Rama\n      lies the Lame One!  Up, Shere Khan!\n\n   Up and kill!  Here is meat; break the necks of the bulls!\n\n   Hsh!  He is asleep.  We will not wake him, for his strength is\n      very great.  The kites have come down to see it.  The black\n      ants have come up to know it.  There is a great assembly in his\n      honor.\n\n   Alala!  I have no cloth to wrap me.  The kites will see that I am\n      naked.  I am ashamed to meet all these people.\n\n   Lend me thy coat, Shere Khan.  Lend me thy gay striped coat that I\n      may go to the Council Rock.\n\n   By the Bull that bought me I made a promise—a little promise.\n      Only thy coat is lacking before I keep my word.\n\n   With the knife, with the knife that men use, with the knife of the\n      hunter, I will stoop down for my gift.\n\n   Waters of the Waingunga, Shere Khan gives me his coat for the love\n      that he bears me.  Pull, Gray Brother!  Pull, Akela!  Heavy is\n      the hide of Shere Khan.\n\n   The Man Pack are angry.  They throw stones and talk child’s talk.\n      My mouth is bleeding.  Let me run away.\n\n   Through the night, through the hot night, run swiftly with me, my\n      brothers.  We will leave the lights of the village and go to\n      the low moon.\n\n   Waters of the Waingunga, the Man-Pack have cast me out.  I did\n      them no harm, but they were afraid of me.  Why?\n\n   Wolf Pack, ye have cast me out too.  The jungle is shut to me and\n      the village gates are shut.  Why?\n\n   As Mang flies between the beasts and birds, so fly I between the\n      village and the jungle.  Why?\n\n   I dance on the hide of Shere Khan, but my heart is very heavy.  My\n      mouth is cut and wounded with the stones from the village, but\n      my heart is very light, because I have come back to the jungle.\n      Why?\n\n   These two things fight together in me as the snakes fight in the\n      spring.  The water comes out of my eyes; yet I laugh while it\n      falls.  Why?\n\n   I am two Mowglis, but the hide of Shere Khan is under my feet.\n\n   All the jungle knows that I have killed Shere Khan.  Look—look\n      well, O Wolves!\n\n   Ahae!  My heart is heavy with the things that I do not understand.</code>"
   },
   {
     "tag": "img",
@@ -2116,16 +2000,16 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
+    "tag": "h4",
     "innerHtml": "The White Seal"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Oh! hush thee, my baby, the night is behind us,\n      And black are the waters that sparkled so green.\n   The moon, o’er the combers, looks downward to find us\n      At rest in the hollows that rustle between.\n   Where billow meets billow, then soft be thy pillow,\n      Ah, weary wee flipperling, curl at thy ease!\n   The storm shall not wake thee, nor shark overtake thee,\n      Asleep in the arms of the slow-swinging seas!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   Oh! hush thee, my baby, the night is behind us,\n      And black are the waters that sparkled so green.\n   The moon, o’er the combers, looks downward to find us\n      At rest in the hollows that rustle between.\n   Where billow meets billow, then soft be thy pillow,\n      Ah, weary wee flipperling, curl at thy ease!\n   The storm shall not wake thee, nor shark overtake thee,\n      Asleep in the arms of the slow-swinging seas!</code>"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<pre><code>                                        Seal Lullaby</code></pre>"
+    "tag": "h4",
+    "innerHtml": "Seal Lullaby"
   },
   {
     "tag": "p",
@@ -2200,12 +2084,8 @@
     "innerHtml": "“I can’t help that,” said Matkah; “there’s going to be now.” And she sang the low, crooning seal song that all the mother seals sing to their babies:"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   You mustn’t swim till you’re six weeks old,\n      Or your head will be sunk by your heels;\n   And summer gales and Killer Whales\n      Are bad for baby seals.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Are bad for baby seals, dear rat,\n      As bad as bad can be;\n   But splash and grow strong,\n   And you can’t be wrong.\n      Child of the Open Sea!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   You mustn’t swim till you’re six weeks old,\n      Or your head will be sunk by your heels;\n   And summer gales and Killer Whales\n      Are bad for baby seals.\n\n   Are bad for baby seals, dear rat,\n      As bad as bad can be;\n   But splash and grow strong,\n   And you can’t be wrong.\n      Child of the Open Sea!</code>"
   },
   {
     "tag": "p",
@@ -2564,7 +2444,7 @@
     "innerHtml": "A week later he and his army (nearly ten thousand holluschickie and old seals) went away north to the Sea Cow’s tunnel, Kotick leading them, and the seals that stayed at Novastoshnah called them idiots. But next spring, when they all met off the fishing banks of the Pacific, Kotick’s seals told such tales of the new beaches beyond Sea Cow’s tunnel that more and more seals left Novastoshnah. Of course it was not all done at once, for the seals are not very clever, and they need a long time to turn things over in their minds, but year after year more seals went away from Novastoshnah, and Lukannon, and the other nurseries, to the quiet, sheltered beaches where Kotick sits all the summer through, getting bigger and fatter and stronger each year, while the holluschickie play around him, in that sea where no man comes."
   },
   {
-    "tag": "p",
+    "tag": "h4",
     "innerHtml": "Lukannon"
   },
   {
@@ -2572,28 +2452,8 @@
     "innerHtml": "This is the great deep-sea song that all the St. Paul seals sing when they are heading back to their beaches in the summer. It is a sort of very sad seal National Anthem."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I met my mates in the morning (and, oh, but I am old!)\n   Where roaring on the ledges the summer ground-swell rolled;\n   I heard them lift the chorus that drowned the breakers’ song—\n   The Beaches of Lukannon—two million voices strong.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   The song of pleasant stations beside the salt lagoons,\n   The song of blowing squadrons that shuffled down the dunes,\n   The song of midnight dances that churned the sea to flame—\n   The Beaches of Lukannon—before the sealers came!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I met my mates in the morning (I’ll never meet them more!);\n   They came and went in legions that darkened all the shore.\n   And o’er the foam-flecked offing as far as voice could reach\n   We hailed the landing-parties and we sang them up the beach.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   The Beaches of Lukannon—the winter wheat so tall—\n   The dripping, crinkled lichens, and the sea-fog drenching all!\n   The platforms of our playground, all shining smooth and worn!\n   The Beaches of Lukannon—the home where we were born!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I met my mates in the morning, a broken, scattered band.\n   Men shoot us in the water and club us on the land;\n   Men drive us to the Salt House like silly sheep and tame,\n   And still we sing Lukannon—before the sealers came.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Wheel down, wheel down to southward; oh, Gooverooska, go!\n   And tell the Deep-Sea Viceroys the story of our woe;\n   Ere, empty as the shark’s egg the tempest flings ashore,\n   The Beaches of Lukannon shall know their sons no more!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   I met my mates in the morning (and, oh, but I am old!)\n   Where roaring on the ledges the summer ground-swell rolled;\n   I heard them lift the chorus that drowned the breakers’ song—\n   The Beaches of Lukannon—two million voices strong.\n\n   The song of pleasant stations beside the salt lagoons,\n   The song of blowing squadrons that shuffled down the dunes,\n   The song of midnight dances that churned the sea to flame—\n   The Beaches of Lukannon—before the sealers came!\n\n   I met my mates in the morning (I’ll never meet them more!);\n   They came and went in legions that darkened all the shore.\n   And o’er the foam-flecked offing as far as voice could reach\n   We hailed the landing-parties and we sang them up the beach.\n\n   The Beaches of Lukannon—the winter wheat so tall—\n   The dripping, crinkled lichens, and the sea-fog drenching all!\n   The platforms of our playground, all shining smooth and worn!\n   The Beaches of Lukannon—the home where we were born!\n\n   I met my mates in the morning, a broken, scattered band.\n   Men shoot us in the water and club us on the land;\n   Men drive us to the Salt House like silly sheep and tame,\n   And still we sing Lukannon—before the sealers came.\n\n   Wheel down, wheel down to southward; oh, Gooverooska, go!\n   And tell the Deep-Sea Viceroys the story of our woe;\n   Ere, empty as the shark’s egg the tempest flings ashore,\n   The Beaches of Lukannon shall know their sons no more!</code>"
   },
   {
     "tag": "img",
@@ -2604,16 +2464,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "“Rikki-Tikki-Tavi”"
+    "tag": "h4",
+    "innerHtml": "“Rikki-tikki-tavi”"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   At the hole where he went in\n   Red-Eye called to Wrinkle-Skin.\n   Hear what little Red-Eye saith:\n   “Nag, come up and dance with death!”</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Eye to eye and head to head,\n      (Keep the measure, Nag.)\n   This shall end when one is dead;\n      (At thy pleasure, Nag.)\n   Turn for turn and twist for twist—\n      (Run and hide thee, Nag.)\n   Hah!  The hooded Death has missed!\n      (Woe betide thee, Nag!)</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   At the hole where he went in\n   Red-Eye called to Wrinkle-Skin.\n   Hear what little Red-Eye saith:\n   “Nag, come up and dance with death!”\n\n   Eye to eye and head to head,\n      (Keep the measure, Nag.)\n   This shall end when one is dead;\n      (At thy pleasure, Nag.)\n   Turn for turn and twist for twist—\n      (Run and hide thee, Nag.)\n   Hah!  The hooded Death has missed!\n      (Woe betide thee, Nag!)</code>"
   },
   {
     "tag": "p",
@@ -3168,32 +3024,12 @@
     "innerHtml": "Rikki-tikki had a right to be proud of himself. But he did not grow too proud, and he kept that garden as a mongoose should keep it, with tooth and jump and spring and bite, till never a cobra dared show its head inside the walls."
   },
   {
-    "tag": "p",
+    "tag": "h4",
     "innerHtml": "Darzee’s Chant"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   (Sung in honor of Rikki-tikki-tavi)</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Singer and tailor am I—\n      Doubled the joys that I know—\n   Proud of my lilt to the sky,\n      Proud of the house that I sew—\n   Over and under, so weave I my music—so weave I the house that I\n      sew.</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Sing to your fledglings again,\n      Mother, oh lift up your head!\n   Evil that plagued us is slain,\n      Death in the garden lies dead.\n   Terror that hid in the roses is impotent—flung on the dung-hill\n   and dead!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Who has delivered us, who?\n      Tell me his nest and his name.\n   Rikki, the valiant, the true,\n      Tikki, with eyeballs of flame,\n   Rikk-tikki-tikki, the ivory-fanged, the hunter with eyeballs of\n   flame!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Give him the Thanks of the Birds,\n      Bowing with tail feathers spread!\n   Praise him with nightingale words—\n      Nay, I will praise him instead.\n   Hear!  I will sing you the praise of the bottle-tailed Rikki, with\n   eyeballs of red!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   (Here Rikki-tikki interrupted, and the rest of the song is\n   lost.)</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   (Sung in honor of Rikki-tikki-tavi)\n\n   Singer and tailor am I—\n      Doubled the joys that I know—\n   Proud of my lilt to the sky,\n      Proud of the house that I sew—\n   Over and under, so weave I my music—so weave I the house that I\n      sew.\n\n   Sing to your fledglings again,\n      Mother, oh lift up your head!\n   Evil that plagued us is slain,\n      Death in the garden lies dead.\n   Terror that hid in the roses is impotent—flung on the dung-hill\n   and dead!\n\n   Who has delivered us, who?\n      Tell me his nest and his name.\n   Rikki, the valiant, the true,\n      Tikki, with eyeballs of flame,\n   Rikk-tikki-tikki, the ivory-fanged, the hunter with eyeballs of\n   flame!\n\n   Give him the Thanks of the Birds,\n      Bowing with tail feathers spread!\n   Praise him with nightingale words—\n      Nay, I will praise him instead.\n   Hear!  I will sing you the praise of the bottle-tailed Rikki, with\n   eyeballs of red!\n\n   (Here Rikki-tikki interrupted, and the rest of the song is\n   lost.)</code>"
   },
   {
     "tag": "img",
@@ -3204,16 +3040,16 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "Toomai of the Elephants"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I will remember what I was, I am sick of rope and chain—\n      I will remember my old strength and all my forest affairs.\n   I will not sell my back to man for a bundle of sugar-cane:\n      I will go out to my own kind, and the wood-folk in their lairs.</p>"
+    "tag": "h4",
+    "innerHtml": "Toomai Of The Elephants"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   I will go out until the day, until the morning break—\n      Out to the wind’s untainted kiss, the water’s clean caress;\n   I will forget my ankle-ring and snap my picket stake.\n      I will revisit my lost loves, and playmates masterless!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   I will remember what I was, I am sick of rope and chain—\n      I will remember my old strength and all my forest affairs.\n   I will not sell my back to man for a bundle of sugar-cane:\n      I will go out to my own kind, and the wood-folk in their lairs.\n\n   I will go out until the day, until the morning break—\n      Out to the wind’s untainted kiss, the water’s clean caress;\n   I will forget my ankle-ring and snap my picket stake.\n      I will revisit my lost loves, and playmates masterless!</code>"
   },
   {
     "tag": "p",
@@ -3432,8 +3268,8 @@
     "innerHtml": "The new elephants strained at their ropes, and squealed and trumpeted from time to time, and he could hear his mother in the camp hut putting his small brother to sleep with an old, old song about the great God Shiv, who once told all the animals what they should eat. It is a very soothing lullaby, and the first verse says:"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Shiv, who poured the harvest and made the winds to blow,\n   Sitting at the doorways of a day of long ago,\n   Gave to each his portion, food and toil and fate,\n   From the King upon the guddee to the Beggar at the gate.\n      All things made he—Shiva the Preserver.\n   Mahadeo!  Mahadeo!  He made all—\n   Thorn for the camel, fodder for the kine,\n   And mother’s heart for sleepy head, O little son of mine!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   Shiv, who poured the harvest and made the winds to blow,\n   Sitting at the doorways of a day of long ago,\n   Gave to each his portion, food and toil and fate,\n   From the King upon the guddee to the Beggar at the gate.\n      All things made he—Shiva the Preserver.\n   Mahadeo!  Mahadeo!  He made all—\n   Thorn for the camel, fodder for the kine,\n   And mother’s heart for sleepy head, O little son of mine!</code>"
   },
   {
     "tag": "p",
@@ -3608,24 +3444,12 @@
     "innerHtml": "But it was all for the sake of Little Toomai, who had seen what never man had seen before—the dance of the elephants at night and alone in the heart of the Garo hills!"
   },
   {
-    "tag": "p",
-    "innerHtml": "Shiv and the Grasshopper"
+    "tag": "h4",
+    "innerHtml": "Shiv And The Grasshopper"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   (The song that Toomai’s mother sang to the baby)</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Shiv, who poured the harvest and made the winds to blow,\n   Sitting at the doorways of a day of long ago,\n   Gave to each his portion, food and toil and fate,\n   From the King upon the guddee to the Beggar at the gate.\n      All things made he—Shiva the Preserver.\n      Mahadeo!  Mahadeo!  He made all,—\n      Thorn for the camel, fodder for the kine,\n      And mother’s heart for sleepy head, O little son of mine!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Wheat he gave to rich folk, millet to the poor,\n   Broken scraps for holy men that beg from door to door;\n   Battle to the tiger, carrion to the kite,\n   And rags and bones to wicked wolves without the wall at night.\n   Naught he found too lofty, none he saw too low—\n   Parbati beside him watched them come and go;\n   Thought to cheat her husband, turning Shiv to jest—\n   Stole the little grasshopper and hid it in her breast.\n      So she tricked him, Shiva the Preserver.\n      Mahadeo!  Mahadeo!  Turn and see.\n      Tall are the camels, heavy are the kine,\n      But this was Least of Little Things, O little son of mine!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   When the dole was ended, laughingly she said,\n   “Master, of a million mouths, is not one unfed?”\n    Laughing, Shiv made answer, “All have had their part,\n   Even he, the little one, hidden ‘neath thy heart.”\n    From her breast she plucked it, Parbati the thief,\n   Saw the Least of Little Things gnawed a new-grown leaf!\n   Saw and feared and wondered, making prayer to Shiv,\n   Who hath surely given meat to all that live.\n      All things made he—Shiva the Preserver.\n      Mahadeo!  Mahadeo!  He made all,—\n      Thorn for the camel, fodder for the kine,\n      And mother’s heart for sleepy head, O little son of mine!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   (The song that Toomai’s mother sang to the baby)\n\n   Shiv, who poured the harvest and made the winds to blow,\n   Sitting at the doorways of a day of long ago,\n   Gave to each his portion, food and toil and fate,\n   From the King upon the guddee to the Beggar at the gate.\n      All things made he—Shiva the Preserver.\n      Mahadeo!  Mahadeo!  He made all,—\n      Thorn for the camel, fodder for the kine,\n      And mother’s heart for sleepy head, O little son of mine!\n\n   Wheat he gave to rich folk, millet to the poor,\n   Broken scraps for holy men that beg from door to door;\n   Battle to the tiger, carrion to the kite,\n   And rags and bones to wicked wolves without the wall at night.\n   Naught he found too lofty, none he saw too low—\n   Parbati beside him watched them come and go;\n   Thought to cheat her husband, turning Shiv to jest—\n   Stole the little grasshopper and hid it in her breast.\n      So she tricked him, Shiva the Preserver.\n      Mahadeo!  Mahadeo!  Turn and see.\n      Tall are the camels, heavy are the kine,\n      But this was Least of Little Things, O little son of mine!\n\n   When the dole was ended, laughingly she said,\n   “Master, of a million mouths, is not one unfed?”\n    Laughing, Shiv made answer, “All have had their part,\n   Even he, the little one, hidden ‘neath thy heart.”\n    From her breast she plucked it, Parbati the thief,\n   Saw the Least of Little Things gnawed a new-grown leaf!\n   Saw and feared and wondered, making prayer to Shiv,\n   Who hath surely given meat to all that live.\n      All things made he—Shiva the Preserver.\n      Mahadeo!  Mahadeo!  He made all,—\n      Thorn for the camel, fodder for the kine,\n      And mother’s heart for sleepy head, O little son of mine!</code>"
   },
   {
     "tag": "img",
@@ -3636,12 +3460,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
+    "tag": "h4",
     "innerHtml": "Her Majesty’s Servants"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   You can work it out by Fractions or by simple Rule of Three,\n   But the way of Tweedle-dum is not the way of Tweedle-dee.\n   You can twist it, you can turn it, you can plait it till you drop,\n   But the way of Pilly Winky’s not the way of Winkie Pop!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   You can work it out by Fractions or by simple Rule of Three,\n   But the way of Tweedle-dum is not the way of Tweedle-dee.\n   You can twist it, you can turn it, you can plait it till you drop,\n   But the way of Pilly Winky’s not the way of Winkie Pop!</code>"
   },
   {
     "tag": "p",
@@ -4232,8 +4056,8 @@
     "innerHtml": "Unless you have been there you cannot imagine what a frightening effect this steady come-down of troops has on the spectators, even when they know it is only a review. I looked at the Amir. Up till then he had not shown the shadow of a sign of astonishment or anything else. But now his eyes began to get bigger and bigger, and he picked up the reins on his horse’s neck and looked behind him. For a minute it seemed as though he were going to draw his sword and slash his way out through the English men and women in the carriages at the back. Then the advance stopped dead, the ground stood still, the whole line saluted, and thirty bands began to play all together. That was the end of the review, and the regiments went off to their camps in the rain, and an infantry band struck up with—"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   The animals went in two by two,\n        Hurrah!\n   The animals went in two by two,\n   The elephant and the battery mul’,\n   and they all got into the Ark\n        For to get out of the rain!</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   The animals went in two by two,\n        Hurrah!\n   The animals went in two by two,\n   The elephant and the battery mul’,\n   and they all got into the Ark\n        For to get out of the rain!</code>"
   },
   {
     "tag": "p",
@@ -4264,64 +4088,16 @@
     "innerHtml": "“And for that reason,” said the native officer, twirling his mustache, “your Amir whom you do not obey must come here and take orders from our Viceroy.”"
   },
   {
-    "tag": "p",
-    "innerHtml": "Parade Song of the Camp Animals"
+    "tag": "h4",
+    "innerHtml": "Parade Song Of The Camp Animals"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   ELEPHANTS OF THE GUN TEAMS</p>"
+    "tag": "pre",
+    "innerHtml": "<code>   ELEPHANTS OF THE GUN TEAMS\n\n   We lent to Alexander the strength of Hercules,\n   The wisdom of our foreheads, the cunning of our knees;\n   We bowed our necks to service: they ne’er were loosed again,—\n   Make way there—way for the ten-foot teams\n         Of the Forty-Pounder train!\n\n   GUN BULLOCKS\n\n   Those heroes in their harnesses avoid a cannon-ball,\n   And what they know of powder upsets them one and all;\n   Then we come into action and tug the guns again—\n   Make way there—way for the twenty yoke\n         Of the Forty-Pounder train!\n\n   CAVALRY HORSES\n\n   By the brand on my shoulder, the finest of tunes\n   Is played by the Lancers, Hussars, and Dragoons,\n   And it’s sweeter than “Stables” or “Water” to me—\n   The Cavalry Canter of “Bonnie Dundee”!\n\n   Then feed us and break us and handle and groom,\n   And give us good riders and plenty of room,\n   And launch us in column of squadron and see\n   The way of the war-horse to “Bonnie Dundee”!\n\n   SCREW-GUN MULES\n\n   As me and my companions were scrambling up a hill,\n   The path was lost in rolling stones, but we went forward still;\n   For we can wriggle and climb, my lads, and turn up everywhere,\n   Oh, it’s our delight on a mountain height, with a leg or two to\n      spare!\n\n   Good luck to every sergeant, then, that lets us pick our road;\n   Bad luck to all the driver-men that cannot pack a load:\n   For we can wriggle and climb, my lads, and turn up everywhere,\n   Oh, it’s our delight on a mountain height, with a leg or two to\n      spare!\n\n   COMMISSARIAT CAMELS\n\n   We haven’t a camelty tune of our own\n   To help us trollop along,\n   But every neck is a hair trombone\n   (Rtt-ta-ta-ta! is a hair trombone!)\n   And this our marching-song:\n   Can’t!  Don’t!  Shan’t!  Won’t!\n   Pass it along the line!\n   Somebody’s pack has slid from his back,\n   Wish it were only mine!\n   Somebody’s load has tipped off in the road—\n   Cheer for a halt and a row!\n   Urrr!  Yarrh!  Grr!  Arrh!\n   Somebody’s catching it now!\n\n   ALL THE BEASTS TOGETHER\n\n   Children of the Camp are we,\n   Serving each in his degree;\n   Children of the yoke and goad,\n   Pack and harness, pad and load.\n   See our line across the plain,\n   Like a heel-rope bent again,\n   Reaching, writhing, rolling far,\n   Sweeping all away to war!\n   While the men that walk beside,\n   Dusty, silent, heavy-eyed,\n   Cannot tell why we or they\n   March and suffer day by day.\n      Children of the Camp are we,\n      Serving each in his degree;\n      Children of the yoke and goad,\n      Pack and harness, pad and load!</code>"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>   We lent to Alexander the strength of Hercules,\n   The wisdom of our foreheads, the cunning of our knees;\n   We bowed our necks to service: they ne’er were loosed again,—\n   Make way there—way for the ten-foot teams\n         Of the Forty-Pounder train!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   GUN BULLOCKS</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Those heroes in their harnesses avoid a cannon-ball,\n   And what they know of powder upsets them one and all;\n   Then we come into action and tug the guns again—\n   Make way there—way for the twenty yoke\n         Of the Forty-Pounder train!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   CAVALRY HORSES</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   By the brand on my shoulder, the finest of tunes\n   Is played by the Lancers, Hussars, and Dragoons,\n   And it’s sweeter than “Stables” or “Water” to me—\n   The Cavalry Canter of “Bonnie Dundee”!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Then feed us and break us and handle and groom,\n   And give us good riders and plenty of room,\n   And launch us in column of squadron and see\n   The way of the war-horse to “Bonnie Dundee”!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   SCREW-GUN MULES</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   As me and my companions were scrambling up a hill,\n   The path was lost in rolling stones, but we went forward still;\n   For we can wriggle and climb, my lads, and turn up everywhere,\n   Oh, it’s our delight on a mountain height, with a leg or two to\n      spare!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Good luck to every sergeant, then, that lets us pick our road;\n   Bad luck to all the driver-men that cannot pack a load:\n   For we can wriggle and climb, my lads, and turn up everywhere,\n   Oh, it’s our delight on a mountain height, with a leg or two to\n      spare!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   COMMISSARIAT CAMELS</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   We haven’t a camelty tune of our own\n   To help us trollop along,\n   But every neck is a hair trombone\n   (Rtt-ta-ta-ta! is a hair trombone!)\n   And this our marching-song:\n   Can’t!  Don’t!  Shan’t!  Won’t!\n   Pass it along the line!\n   Somebody’s pack has slid from his back,\n   Wish it were only mine!\n   Somebody’s load has tipped off in the road—\n   Cheer for a halt and a row!\n   Urrr!  Yarrh!  Grr!  Arrh!\n   Somebody’s catching it now!</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   ALL THE BEASTS TOGETHER</p>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<p>   Children of the Camp are we,\n   Serving each in his degree;\n   Children of the yoke and goad,\n   Pack and harness, pad and load.\n   See our line across the plain,\n   Like a heel-rope bent again,\n   Reaching, writhing, rolling far,\n   Sweeping all away to war!\n   While the men that walk beside,\n   Dusty, silent, heavy-eyed,\n   Cannot tell why we or they\n   March and suffer day by day.\n      Children of the Camp are we,\n      Serving each in his degree;\n      Children of the yoke and goad,\n      Pack and harness, pad and load!</p>"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
